@@ -1,3 +1,4 @@
+![Header](C:\Users\Mir3i\Downloads\github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rayen aka 'mir3i'</h1>
 <h3 align="center">A passionate backend developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
@@ -28,4 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mir3i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mir3i" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mir3i&show_icons=true&locale=en&layout=compact" alt="mir3i" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mir3i&show_icons=true&locale=en" alt="mir3i" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mir3i&" alt="mir3i" /></p>
