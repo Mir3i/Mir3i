@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
 
 <style>
-  #profile{border-radius:10px}
+  #profile{border-radius:100px}
 </style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mir3i&label=Profile%20views&color=0e75b6&style=flat" alt="mir3i" id ="profile" /> </p>
 
