@@ -3,9 +3,7 @@
 <h3 align="center">A passionate backend developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
 
-<style>
-  #profile{border-radius:100px}
-</style>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mir3i&label=Profile%20views&color=0e75b6&style=flat" alt="mir3i" id ="profile" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rayen_mir3i" target="blank"><img src="https://img.shields.io/twitter/follow/rayen_mir3i?logo=twitter&style=for-the-badge" alt="rayen_mir3i" /></a> </p>
